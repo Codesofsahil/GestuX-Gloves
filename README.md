@@ -1,6 +1,3 @@
-# GestuX-Gloves
-GestuX Gloves — A wearable sign language vocalizer that converts predefined hand gestures into text and speech using Arduino Uno, contact-based gesture detection, MPU6050 motion sensing, HC-05 Bluetooth, and an Android Text-to-Speech application.
-
 # GestuX Gloves 🧤
 
 **GestuX Gloves** is a wearable assistive communication system designed to convert predefined hand gestures into **text and speech**, helping bridge the communication gap between sign-language users and people unfamiliar with sign language.
